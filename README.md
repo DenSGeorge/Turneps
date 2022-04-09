@@ -1,4 +1,4 @@
-# My data science progects
+# My Data Science progects
 
 From the [Skillfactory Data Science course] (https://skillfactory.ru/data-science)
 
